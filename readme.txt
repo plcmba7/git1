@@ -1,5 +1,4 @@
 gietlenging
 git is change 
 ddd
-
-simple
+zr is a pig
