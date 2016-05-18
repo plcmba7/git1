@@ -1,4 +1,8 @@
 ee
+<<<<<<< HEAD
 dev2
 
 
+=======
+zhe shi bushi dev2
+>>>>>>> dev2

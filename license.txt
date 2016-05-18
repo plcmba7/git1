@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ddi
 dev1
+=======
+
+ddi
+zhesibushi dev2
+>>>>>>> dev2
