@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-ddi
-dev1
-=======
-
-ddi
-zhesibushi dev2
->>>>>>> dev2
+ok i have change it
